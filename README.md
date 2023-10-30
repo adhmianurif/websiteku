@@ -6,7 +6,6 @@
 	<title>Adhmia Nuri Febrianti</title>
 </head>
 <body>
-	<img src="vivoy36.jpg" alt="vivoy36">
 	<p><h1>Spesifikasi HP Vivo Y36</h1></p></br>
 	<p>CPU : MediaTek HelioG35</p>
 	<p>GPU : PowerVR GE8320</p>
